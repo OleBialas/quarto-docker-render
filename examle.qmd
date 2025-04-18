@@ -1,5 +1,5 @@
 ---
-title: "Freeze Test with Docker Dependency"
+title: "Docker-Render Example"
 format: html
 execute:
   cache : true
