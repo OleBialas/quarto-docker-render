@@ -1,0 +1,3 @@
+project:
+  type: default
+  pre-render: _extensions/docker-render/scripts/docker_prerender.sh
